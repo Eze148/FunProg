@@ -6,7 +6,7 @@ I will upload the code every 1 week after each funprog lab session. Good luck & 
 ----------------------------------------------------------------------------------------------------------------------------------------
 * Lab Session 12 March -- Modul 1 : convertDay.cpp & moneyChanger.cpp
 * Lab Session 19 March -- Modul 2 : condition.cpp & calculator.cpp
-* Lab Session 27 March -- Modul 3 : ---------------------------------
+* Lab Session 27 March -- Modul 3 : count.cpp & conversion.cpp
 
 
 
